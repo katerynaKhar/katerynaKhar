@@ -1,12 +1,14 @@
 ### Hi, I'm Kateryna 👋
 
-PHP developer building AI-integrated tools: Claude API integrations, automation bots,
-billing and hosting automation, secure web scrapers and analyzers.
+I build **Telegram bots and AI tools** for small businesses —
+from support and booking bots to Claude API integrations that read, sort and answer for you.
 
-**Open for freelance work** — small and medium projects, integrations, bots.
+Under the hood: PHP backend, billing and hosting automation, secure web scrapers and analyzers.
+
+**Open for freelance work** — bots, AI integrations, automation.
 📫 Contact: [glize23@gmail.com](mailto:glize23@gmail.com)
 
 **Selected projects**
-- [i18n-keeper](https://github.com/katerynaKhar/i18n-keeper) — deterministic i18n linter for JSON, Laravel PHP, gettext and YAML locale files (CLI + MCP server)
+- [i18n-keeper](https://github.com/katerynaKhar/i18n-keeper) — deterministic i18n linter for JSON, Laravel PHP, gettext and YAML locale files (CLI + MCP server for AI agents)
 - [eslint-plugin-i18n-keeper](https://github.com/katerynaKhar/eslint-plugin-i18n-keeper) — ESLint plugin for i18n-keeper
 - [meetnow](https://github.com/katerynaKhar/meetnow)
