@@ -11,4 +11,3 @@ Under the hood: PHP backend, billing and hosting automation, secure web scrapers
 **Selected projects**
 - [i18n-keeper](https://github.com/katerynaKhar/i18n-keeper) — deterministic i18n linter for JSON, Laravel PHP, gettext and YAML locale files (CLI + MCP server for AI agents)
 - [eslint-plugin-i18n-keeper](https://github.com/katerynaKhar/eslint-plugin-i18n-keeper) — ESLint plugin for i18n-keeper
-- [meetnow](https://github.com/katerynaKhar/meetnow)
