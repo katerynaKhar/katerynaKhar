@@ -4,6 +4,7 @@ PHP developer building AI-integrated tools: Claude API integrations, automation 
 billing and hosting automation, secure web scrapers and analyzers.
 
 **Open for freelance work** — small and medium projects, integrations, bots.
+📫 Contact: [glize23@gmail.com](mailto:glize23@gmail.com)
 
 **Selected projects**
 - [i18n-keeper](https://github.com/katerynaKhar/i18n-keeper) — deterministic i18n linter for JSON, Laravel PHP, gettext and YAML locale files (CLI + MCP server)
